@@ -7,3 +7,6 @@ Technologies Used
 HTML: For structuring the content of the web pages.
 
 CSS: For styling and layout purposes.
+
+![Screenshot 2024-01-15 130708](https://github.com/Aanya-Saroha/Netflix-clone-by-html-and-css/assets/169691115/882e5ce7-9550-4f08-96bd-7c41a5b989e3)
+
